@@ -20,9 +20,9 @@ Simply use `ion run {PATH_TO_ION_FILE}`
 
 
 ## How to Install/Remove Packages
-Simply use `ion install {PACKAGE_NAME}` or `ion i {PACKAGE_NAME}`
+Simply use `ion install{PACKAGE_NAME 1} {PACKAGE_NAME 2}` or `ion i {PACKAGE_NAME 1} {PACKAGE_NAME 2}`
 
-Use `ion uninstall {PACKAGE_NAME}` or `ion u {PACKAGE_NAME}` to remove packages
+Use `ion uninstall {PACKAGE_NAME 1} {PACKAGE_NAME 2}` or `ion u {PACKAGE_NAME 1} {PACKAGE_NAME 2}` to remove packages
 
 For more information, check out our website at [ionlang.ion606.com](https://ionlang.ion606.com/)
 
