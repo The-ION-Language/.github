@@ -1,4 +1,6 @@
-# Hello there! Welcome to The ION Language Repository!
+<!-- ![Logo Main](https://github.com/The-ION-Language/ION-Lang/blob/main/assets/ION_LANG_LOGO.png?raw=true) -->
+
+# Hello there! Thanks for checking out The ION Language!
 
 ### What is the ION Language?
 The ION Language is my attempt at making a custom programming language based (mostly) on Javascript. Why? Because ~~I hate myself~~ I want to learn more about how lexical parsers work and how compilers do what compilers do.
